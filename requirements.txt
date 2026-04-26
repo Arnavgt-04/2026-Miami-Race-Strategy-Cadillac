@@ -1,0 +1,7 @@
+fastf1>=3.3.0
+requests
+numpy
+matplotlib
+scipy
+reportlab
+pandas
