@@ -1,5 +1,5 @@
 # report/generate_pdf.py
-# Generates charts and assembles the final 3-page PDF report
+# Generates charts and assembles the final 4-page PDF report
 # Run this file directly to produce the report
 
 import sys
